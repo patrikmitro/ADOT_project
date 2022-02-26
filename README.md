@@ -10,7 +10,7 @@ pip install virtualenv
 ### 2.  
 vytvor si subor venv   
 ```
-virtualenv env
+python -m virtualenv env
 ```
 
 ### 3.  
@@ -20,7 +20,7 @@ env\Scripts\activate
 ```
 by ti malo pred celym terminalom napisat "(env)") takto:  
 ```
-(env) Jakubs-MacBook-Air:ADOT_BOT jakub$
+(env) PS C:\Users\vizne\OneDrive\Plocha\ADOT_project-Windows\ADOT_project-Windows>
 ```
 
 ### 4.  
