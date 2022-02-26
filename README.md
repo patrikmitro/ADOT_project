@@ -20,7 +20,7 @@ env\Scripts\activate
 ```
 by ti malo pred celym terminalom napisat "(env)") takto:  
 ```
-(env) Jakubs-MacBook-Air:ADOT_BOT jakub$
+(env) PS C:\Users\vizne\OneDrive\Plocha\ADOT_project-Windows\ADOT_project-Windows>
 ```
 
 ### 4.  
