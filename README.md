@@ -33,6 +33,7 @@ pip install requests
 instaluj si do venv kniznicu openpyxl   
 ```
 pip install openpyxl
+```
 
 ### 6.    
 instaluj si do venv kniznicu beautifulsoup4   
