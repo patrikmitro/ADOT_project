@@ -10,7 +10,7 @@ pip install virtualenv
 ### 2.  
 vytvor si subor venv   
 ```
-virtualenv env
+python -m virtualenv env
 ```
 
 ### 3.  
