@@ -11,12 +11,9 @@ ws.title = "Germany"
 row = 1
 column_city = 1
 column_name = 2
-column_url = 3
 
-# todo: pridat viac miest (kubo)
-
-germany = ["Berlin", "Frankfurt", "Hamburg", "Munich", "Essen"]
-restaurant_urls = [] 
+germany = ["Berlin"]
+restaurant_urls = []
 
 for town in germany:
     offset = 0
@@ -36,7 +33,6 @@ for town in germany:
             restaurant_urls.append(q["url"])
             ws.cell(row=row, column=column_city, value=q["location"]["city"])
             ws.cell(row=row, column=column_name, value=q["name"])
-            ws.cell(row=row, column=column_url, value=q["url"])
             row += 1
 
         offset += 3
