@@ -1,4 +1,3 @@
-from readline import set_completion_display_matches_hook
 from openpyxl import Workbook
 from bs4 import BeautifulSoup
 import requests
@@ -16,7 +15,6 @@ doc = BeautifulSoup(response, "html.parser")
 sections = doc.find_all("section")
 for section in sections:
     print(section.find_all("a"))
-    print("")
     print("")
 
 # todo: z urlYelp ziskat urlRestaurant
