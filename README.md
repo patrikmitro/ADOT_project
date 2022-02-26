@@ -39,3 +39,7 @@ pip install openpyxl
 instaluj si do venv kniznicu beautifulsoup4   
 ```
 pip install beautifulsoup4
+
+
+:D
+:D
