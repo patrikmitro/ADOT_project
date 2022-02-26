@@ -1,4 +1,4 @@
-# ADOT_project-macOS
+# ADOT_project-Windows
 ## chod riadok za riadkom a kopiruj do terminalu
 
 ### 1.  
